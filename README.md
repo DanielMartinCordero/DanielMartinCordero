@@ -46,14 +46,15 @@ Here you can see my real-time GitHub stats:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielMartinCordero&theme=tokyonight" alt="Activity Radar" />
   </p>
   
-  ### 📈 Global Performance
+<h3>📈 Global Performance</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielMartinCordero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's Stats" />
+    <img src="https://github-readme-stats-tau-ashy.vercel.app/api?username=DanielMartinCordero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's Stats" />
   </p>
-  
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMartinCordero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats-tau-ashy.vercel.app/api/top-langs/?username=DanielMartinCordero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   </p>
+
 </div>
 
 
