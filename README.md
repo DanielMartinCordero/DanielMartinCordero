@@ -97,4 +97,4 @@ Beyond the featured projects, most of what I've learned is in class projects and
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-📫 danikai1902@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📫 danikai1902@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-martin-cordero/)
