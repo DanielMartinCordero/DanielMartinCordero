@@ -35,6 +35,7 @@ I learn by building things that work end to end, and I care about the parts nobo
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API">
 <img src="https://img.shields.io/badge/ComfyUI_+_Flux-1f6feb?style=for-the-badge" alt="ComfyUI + Flux">
 <img src="https://img.shields.io/badge/MoviePy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="MoviePy">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
 
 **Tools**<br>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -56,6 +57,7 @@ I learn by building things that work end to end, and I care about the parts nobo
 ### Featured
 
 **[ParfumDex](https://github.com/DanielMartinCordero/parfum_dex)**: Flutter + Firebase app for fragrance collectors, with a searchable catalog, a real-time personal vault and owner-only Firestore rules.
+In-development
 
 **[AI video pipeline](https://github.com/DanielMartinCordero/gen-video-orchestrator)**: Python pipeline that turns a topic into a vertical short video, from script to final MP4.
 
