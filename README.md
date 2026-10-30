@@ -61,10 +61,6 @@ I learn by building things that work end to end, and I care about the parts nobo
   <a href="https://github.com/DanielMartinCordero/gen-video-orchestrator"><img src="assets/card-video-pipeline.svg" width="49%" alt="AI Video Pipeline"></a>
 </p>
 
-<p align="center">
-  <img src="assets/pipeline.svg" alt="Pipeline: Gemini script, edge-tts narration, ComfyUI and Flux images, MoviePy assembly, final MP4" width="100%">
-</p>
-
 ### Coursework and practice
 
 Beyond the featured projects, most of what I've learned is in class projects and exercises:
